@@ -28,3 +28,24 @@ body{
   background-repeat: no-repeat;
   background-position: right;
 }
+.third-section{
+  display: flex;
+}
+.last-section{
+  
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 40%;
+  margin-right: 5px;
+  margin-left: 100px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+.others{
+  background-image: url('../img/exp-bg.png');
+  background-repeat: no-repeat;  
+}
+footer{
+  text-align: center;
+  margin-top: 150px;
+}
