@@ -1,0 +1,30 @@
+body{
+  font-family: 'Cabin Condensed', sans-serif;
+  text-transform: capitalize;
+}
+.orange-color{
+  color: orange;
+}
+.button{
+  text-decoration: none;
+  background-image:linear-gradient( orange, tomato);
+  border-radius: 5px;
+  padding: 10px 10px ;
+  font-weight: 700 ;
+}
+.image{
+  width: 50%;
+  padding-right: 50px;
+}
+.main-section{
+  display: flex;
+  background-image: url('../img/top-banner.png');
+  background-repeat: no-repeat;
+}
+
+.second-section{
+  display: flex;
+  background-image: url('../img/dream-bg.png');
+  background-repeat: no-repeat;
+  background-position: right;
+}
